@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+header{
+    margin-left: 150px;;
+}
+.header-img{
+    width:85%;
+    height:150px;
+}
+/*===================================section1==================================*/
+.title-princ{
+    display:flex;
+    justify-content: space-around;
+}
+.title1{
+    margin-left:150px;
+    width:550px;
+}
+.imgP{
+    border:1px solid black;
+    width:150px;
+    height:180px;
+    margin-right:220px;
+}
+.p-img{
+    padding:5px;
+    line-height: 25px;
+}
+
